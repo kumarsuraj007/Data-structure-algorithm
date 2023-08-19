@@ -1,0 +1,5 @@
+Rules we have to follow -->
+1. Worst Case 
+2. Remove Constants 
+3. Different Terms for Inputs 
+4. Drop Non Dominant 
